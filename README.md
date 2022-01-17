@@ -1,4 +1,4 @@
-LIVE:https://weather-app-bcj.pages.dev/
+LIVE: https://weather-app-bcj.pages.dev/
 
 What the project does? 🤔 --> Show the current temperature of any city in the world (with a current location button) ⛅
 
